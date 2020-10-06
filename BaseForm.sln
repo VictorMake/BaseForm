@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BaseForm", "BaseForm\BaseForm.vbproj", "{99890C86-E367-47C5-AE0D-CC68632A439E}"
-EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestBaseFormDll", "TestBaseFormDll\TestBaseFormDll.vbproj", "{50B51096-B3E3-47B7-B6D9-4681FD736EB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +15,11 @@ Global
 		{99890C86-E367-47C5-AE0D-CC68632A439E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99890C86-E367-47C5-AE0D-CC68632A439E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99890C86-E367-47C5-AE0D-CC68632A439E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{50B51096-B3E3-47B7-B6D9-4681FD736EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50B51096-B3E3-47B7-B6D9-4681FD736EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50B51096-B3E3-47B7-B6D9-4681FD736EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50B51096-B3E3-47B7-B6D9-4681FD736EB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A0344A-71AF-40DE-B68A-7CBDF607CB54}
 	EndGlobalSection
 EndGlobal
